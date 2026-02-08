@@ -1,5 +1,5 @@
 # nginx_refernces
-This repo I use as referrence for nginx configuration files. i will keep updating this repo whenever is possible. My notes will prepended with the "##". The other "#" is the default comment of the nginx.conf file.
+This repo I use as referrence for nginx configuration files. i will keep updating this repo whenever is possible. My notes will prepended with the "##". The other "#" is the default comment of the nginx.conf file. If needed i will be adding specific parts of the config file to keep it clean and easy to follow.
 
 Warning: Do no use these files for your production, instead use them to learn more about nginx configuration file!
 
